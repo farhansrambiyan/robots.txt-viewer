@@ -39,7 +39,7 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 
 If you find this extension helpful, please consider supporting the developer through the links provided in the extension's footer.
 
-*   [Support me by buymeacoffee.com](https://www.buymeacoffee.com/dummy) (Dummy Link)
-*   [Visit my website: far.hn](https://far.hn)
+*   [Support me by buymeacoffee.com](https://buymeacoffee.com/farhansrambiyan)
+*   [Visit my website: far.hn](https://buymeacoffee.com/farhansrambiyan?utm_source=github&utm_medium=extension&utm_campaign=footer)
 
 
