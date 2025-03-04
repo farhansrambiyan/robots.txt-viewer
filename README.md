@@ -16,7 +16,9 @@ The extension displays the contents of the `robots.txt` file in a clean, code ed
 *   
 ## Installation
 
-can directly install from here: 
+can directly install from here: https://chromewebstore.google.com/detail/odccpphhdfbkimiobfmjifeomhbejjbd/
+
+Or
 
 1.  Download the extension files from this repository.
 2.  Open Chrome and navigate to `chrome://extensions/`.
